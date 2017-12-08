@@ -1,0 +1,698 @@
+body{
+	margin:0px;
+	font-family: oswald;
+	font-size: 25px;
+}
+nav{
+	padding-top: 15px;
+	padding-right: 70px;
+	padding-left: 60px;
+	padding-bottom: 0px;
+}
+
+nav button{
+	
+	padding-top: 30px;
+	height: 50px;
+	width: 100px;
+	font-size: 20px;
+}
+nav a{
+	padding-right: 30px;
+}
+
+.heads{
+	background-image:url("https://buidln.clipdealer.com/003/157/003//previews/2--3157003-technology%20network%20loop%20background.jpg"); 
+	height: 550px;
+}
+
+.bannertext{
+	padding-top: 150px;
+	text-align: justify;
+
+
+}
+
+p{
+	word-spacing: 1px;
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+.bannertext  h3{
+	font-weight: bold;
+}
+.sbannertext{
+	padding-top: 150px;
+	text-align: justify;
+
+	
+}
+
+.comp img{
+	height:100px;
+	width:100px;
+}
+.comp{
+	padding-top: 30px;
+}
+.comp h4{
+	padding-top: 20px;
+	padding-left: 30px;
+	font-weight: bold;
+	font-size: 30px;
+}
+fieldset { 
+	border:0px solid green; 
+	background-image:url("https://buidln.clipdealer.com/003/157/003//previews/2--3157003-technology%20network%20loop%20background.jpg"); 
+	height:300px;
+	text-align: center;
+	padding-left: 60px;
+	padding-top: 150px;
+}
+
+
+
+.images{
+	margin-top: 30px;
+	background-image:url("https://atomic.strategyonline.ca/Content/images/background.jpg") ;
+	opacity: 0.5;
+	background-size: 500px 500px;
+}
+
+.about{
+	padding-top:165px;
+	padding-right: 30px;
+
+
+}
+
+.about h3{
+	text-align: center;
+	font-weight: bold;
+	padding-bottom: 34px;
+	letter-spacing: 2px;
+}
+
+.about img{
+	height:80px;
+	width:80px;
+}
+
+.about p{
+	text-align: justify;
+	word-wrap: break-word;
+}
+
+.lclass{
+	text-align: left;
+}
+.rclass{
+	text-align: right;
+}
+
+.about h4{
+	text-align: left;
+	font-weight: bold;
+	
+}
+
+.clear{
+	padding:30px;
+}
+.quote{
+	padding-top: 60px;
+	background-image:url("https://i.pinimg.com/originals/83/bc/9e/83bc9e38f376ce6f8c0e2e97c01cfa05.jpg");
+	height: 230px;
+}
+
+.quote h3{
+
+	font-weight: bold;
+	padding-left: 50px;
+}
+
+.quote p{
+	padding-left: 50px;
+}
+.test{
+	height: 550px;
+	border-radius: 5px 5px 0px 0px;
+
+}
+
+.testi{
+	background-color: #E6E6E6;
+	border-radius: 5px 5px 0px 0px;
+	height:210px;
+	padding-left: 20px;
+}
+.test h2{
+	padding-top: 30px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.test h4{
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	text-align: center;
+	
+
+}
+.testi img{
+	padding-left: 100px;
+	padding-top: 10px;
+}
+
+.text p{
+	font-size:20px;
+	text-align: justify;
+	word-wrap: 10px;
+	background-color: #E6E6E6;
+}
+
+.demo{
+	background-image:url("http://i.rtings.com/images/reviews/lf6300/lf6300-dse-filtered.png") ;
+	height:270px;
+
+}
+
+.demo h2{
+	padding-top: 30px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 30px;
+	color: #ffffff;
+}
+.demo h3{
+	color: #ffffff;
+	text-align: right;
+}
+
+.demo img{
+	height: 50px;
+	width: 50px;
+	padding-top: 20px;
+
+}
+
+.share{
+	padding-left:100px;
+}
+
+.certify{
+	height: 280px;
+}
+.certify h3{
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 60px;
+}
+
+footer{
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+	background-size: cover;
+	height: 50px;
+}
+
+@media only screen and (min-width: 768px)
+{
+	body{
+	margin:0px;
+	font-family: oswald;
+	font-size: 20px;
+}
+nav{
+	padding-top: 15px;
+	padding-right: 70px;
+	padding-left: 60px;
+	padding-bottom: 0px;
+}
+
+nav button{
+	
+	padding-top: 30px;
+	height: 50px;
+	width: 100px;
+	font-size: 20px;
+}
+nav a{
+	padding-right: 30px;
+}
+
+.heads{
+	background-image:url("https://buidln.clipdealer.com/003/157/003//previews/2--3157003-technology%20network%20loop%20background.jpg"); 
+	height: 550px;
+}
+
+.bannertext{
+	padding-top: 150px;
+	text-align: justify;
+}
+
+p{
+	word-spacing: 1px;
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+.bannertext  h3{
+	font-weight: bold;
+}
+.sbannertext{
+	padding-top: 150px;
+	text-align: justify;
+
+	
+}
+
+.comp img{
+	height:100px;
+	width:100px;
+}
+.comp{
+	padding-top: 30px;
+}
+.comp h4{
+	padding-top: 20px;
+	padding-left: 30px;
+	font-weight: bold;
+	font-size: 20px;
+}
+fieldset { 
+	border:0px solid green; 
+	background-image:url("https://buidln.clipdealer.com/003/157/003//previews/2--3157003-technology%20network%20loop%20background.jpg"); 
+	height:300px;
+	text-align: center;
+	padding-left: 60px;
+	padding-top: 60px;
+}
+
+legend{
+	padding: 0.2em 0.5em;
+  border:0px solid green;
+  color:#000000;
+  font-size:90%;
+  text-align:center;
+}
+
+.images{
+	margin-top: 30px;
+	background-image:url("https://atomic.strategyonline.ca/Content/images/background.jpg") ;
+	opacity: 0.5;
+	background-size: 500px 500px;
+}
+
+.about{
+	padding-top:165px;
+	padding-right: 30px;
+
+
+}
+
+.about h3{
+	text-align: center;
+	font-weight: bold;
+	padding-bottom: 34px;
+	letter-spacing: 2px;
+}
+
+.about img{
+	padding-top: 10px;
+	height:80px;
+	width:80px;
+}
+
+.about p{
+	text-align: justify;
+	word-wrap: break-word;
+}
+
+.lclass{
+	text-align: left;
+}
+.rclass{
+	text-align: right;
+}
+
+.about h4{
+	text-align: left;
+	font-weight: bold;
+	
+}
+
+.clear{
+	padding:30px;
+}
+.quote{
+	padding-top: 60px;
+	background-image:url("https://i.pinimg.com/originals/83/bc/9e/83bc9e38f376ce6f8c0e2e97c01cfa05.jpg");
+	height: 230px;
+}
+
+.quote h3{
+
+	font-weight: bold;
+	padding-left: 50px;
+}
+
+.quote p{
+	padding-left: 50px;
+}
+.test{
+	height: 550px;
+	border-radius: 5px 5px 0px 0px;
+
+}
+
+.testi{
+	background-color: #E6E6E6;
+	border-radius: 5px 5px 0px 0px;
+	height:235px;
+	padding-left: 20px;
+	padding-right: 10px;
+
+}
+.test h2{
+	padding-top: 30px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.test h4{
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	text-align: center;
+	
+
+}
+.testi img{
+	padding-left: 47px;
+	padding-top: 0px;
+}
+
+.text p{
+	font-size:20px;
+	text-align: justify;
+	word-wrap: 10px;
+	background-color: #E6E6E6;
+}
+
+.demo{
+	background-image:url("http://i.rtings.com/images/reviews/lf6300/lf6300-dse-filtered.png") ;
+	height:270px;
+
+}
+
+.demo h2{
+	padding-top: 30px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 30px;
+	color: #ffffff;
+}
+.demo h3{
+	color: #ffffff;
+	text-align: right;
+	font-size: 20px;
+}
+
+.demo img{
+	height: 50px;
+	width: 50px;
+	padding-top: 20px;
+
+}
+
+.share{
+	padding-left:100px;
+}
+
+.certify{
+	height: 280px;
+}
+.certify h3{
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 60px;
+}
+
+footer{
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+	background-size: cover;
+	height: 50px;
+}
+
+}
+
+
+@media only screen and (min-width: 320px)
+{
+	body{
+	margin:0px;
+	font-family: oswald;
+	font-size: 20px;
+}
+nav{
+	padding-top: 5px;
+	padding-right: 30px;
+	padding-left: 15px;
+	padding-bottom: 0px;
+}
+
+nav button{
+	
+	padding-top: 30px;
+	height: 50px;
+	width: 100px;
+	font-size: 20px;
+}
+nav a{
+	padding-right: 1px;
+}
+
+.heads{
+	background-image:url("https://buidln.clipdealer.com/003/157/003//previews/2--3157003-technology%20network%20loop%20background.jpg"); 
+	height: 670px;
+	background-size: cover;
+}
+
+.bannertext{
+	padding-top: 90px;
+	text-align: justify;
+}
+
+p{
+	word-spacing: 1px;
+	font-size: 15px;
+	
+}
+.bannertext  h3{
+	font-weight: bold;
+}
+.sbannertext{
+	padding-top: 10px;
+	text-align: center;
+	padding-left: 0px;
+	padding-right: 0px;
+
+}
+
+.sbannertext input{
+	width: 110px;
+	padding-left: 0px;
+	margin-right: 30px;
+}
+.comp img{
+	height:100px;
+	width:100px;
+	margin-left: 45px;
+	padding-bottom: 10px;
+}
+.comp{
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+.comp h4{
+	padding-top: 20px;
+	padding-left: 30px;
+	font-weight: bold;
+	font-size: 15px;
+	padding-bottom: 30px;
+}
+fieldset { 
+	border:0px solid green; 
+	background-image:url("https://buidln.clipdealer.com/003/157/003//previews/2--3157003-technology%20network%20loop%20background.jpg"); 
+	height:300px;
+	text-align: center;
+	padding-left: 60px;
+	padding-top: 60px;
+}
+
+legend{
+	padding: 0.2em 0.5em;
+  border:0px solid green;
+  color:#000000;
+  font-size:90%;
+  text-align:center;
+}
+
+.images{
+	margin-top: 30px;
+	background-image:url("https://atomic.strategyonline.ca/Content/images/background.jpg") ;
+	opacity: 0.5;
+	background-size: 500px 500px;
+}
+
+.about{
+	padding-top:20px;
+	padding-right: 30px;
+
+
+}
+
+.about h3{
+	text-align: center;
+	font-weight: bold;
+	padding-bottom: 34px;
+
+	}
+
+.about img{
+	padding-top: 10px;
+	height:100px;
+	width:100px;
+	margin-right:20px;
+}
+
+.about p{
+	text-align: justify;
+	word-wrap: break-word;
+}
+
+.lclass{
+	text-align: left;
+}
+.rclass{
+	text-align: right;
+}
+
+.about h4{
+	padding-left: 40px;
+	text-align: center;
+	font-weight: bold;
+	margin-right:20px;
+	
+}
+
+.clear{
+	padding:10px;
+}
+.quote{
+	padding-top: 60px;
+	background-image:url("https://i.pinimg.com/originals/83/bc/9e/83bc9e38f376ce6f8c0e2e97c01cfa05.jpg");
+	height: 230px;
+}
+
+.quote h3{
+
+	font-weight: bold;
+	padding-left: 50px;
+}
+
+.quote p{
+	padding-left: 50px;
+}
+.test{
+	height: 550px;
+	border-radius: 5px 5px 0px 0px;
+
+}
+
+.testi{
+	background-color: #E6E6E6;
+	border-radius: 5px 5px 0px 0px;
+	height:190px;
+	padding-left: 20px;
+	padding-right: 10px;
+
+}
+.test h2{
+	padding-top: 30px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.test h4{
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	text-align: center;
+	
+
+}
+.testi img{
+	padding-left: 47px;
+	padding-top: 0px;
+}
+
+.text p{
+	font-size:20px;
+	text-align: justify;
+	word-wrap: 10px;
+	background-color: #E6E6E6;
+}
+
+.demo{
+	background-image:url("http://i.rtings.com/images/reviews/lf6300/lf6300-dse-filtered.png") ;
+	height:270px;
+
+}
+
+.demo h2{
+	padding-top: 30px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 30px;
+	color: #ffffff;
+}
+.demo h3{
+	color: #ffffff;
+	text-align: right;
+	font-size: 20px;
+}
+
+.demo img{
+	height: 50px;
+	width: 50px;
+	padding-top: 20px;
+
+}
+
+.share{
+	padding-left:100px;
+}
+
+.certify{
+	height: 280px;
+}
+.certify h3{
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 60px;
+}
+
+footer{
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+	background-size: cover;
+	height: 50px;
+}
+
+}
